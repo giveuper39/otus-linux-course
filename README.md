@@ -3,4 +3,4 @@
 Homework list:
 
 * [Homework 1](hw1/solution.md)
-* TBD...
+* [Homework 7](hw7/solution.md)
